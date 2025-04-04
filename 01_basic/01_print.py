@@ -1,3 +1,5 @@
+### EJECUTAR UN ARCHIVO DESDE CMD: python monbre_del_archivo.py
+
 # El módulo print() es el que nos permite imprimir en consola
 
 # un solo valor con comillas dobles
